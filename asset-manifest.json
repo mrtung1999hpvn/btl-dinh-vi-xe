@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/btl-dinh-vi-xe/static/css/main.4942f960.chunk.css",
+    "main.js": "/btl-dinh-vi-xe/static/js/main.ed35b120.chunk.js",
+    "main.js.map": "/btl-dinh-vi-xe/static/js/main.ed35b120.chunk.js.map",
+    "runtime-main.js": "/btl-dinh-vi-xe/static/js/runtime-main.4085e6bc.js",
+    "runtime-main.js.map": "/btl-dinh-vi-xe/static/js/runtime-main.4085e6bc.js.map",
+    "static/js/2.909341a4.chunk.js": "/btl-dinh-vi-xe/static/js/2.909341a4.chunk.js",
+    "static/js/2.909341a4.chunk.js.map": "/btl-dinh-vi-xe/static/js/2.909341a4.chunk.js.map",
+    "index.html": "/btl-dinh-vi-xe/index.html",
+    "precache-manifest.f50d334bbf4b1757ca92a95a2ee66742.js": "/btl-dinh-vi-xe/precache-manifest.f50d334bbf4b1757ca92a95a2ee66742.js",
+    "service-worker.js": "/btl-dinh-vi-xe/service-worker.js",
+    "static/css/main.4942f960.chunk.css.map": "/btl-dinh-vi-xe/static/css/main.4942f960.chunk.css.map",
+    "static/js/2.909341a4.chunk.js.LICENSE.txt": "/btl-dinh-vi-xe/static/js/2.909341a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4085e6bc.js",
+    "static/js/2.909341a4.chunk.js",
+    "static/css/main.4942f960.chunk.css",
+    "static/js/main.ed35b120.chunk.js"
+  ]
+}
